@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am testing markdown and jekyll now
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Photos are cool and I like to take them
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[invalid@domain.com](mailto:invalid@domain.com)
